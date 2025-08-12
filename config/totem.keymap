@@ -17,8 +17,8 @@
 #include <dt-bindings/zmk/outputs.h>
 
 #define BASE 0
-#define NAV  1
-#define SYM  2
+#define NAV  2
+#define SYM  1
 #define ADJ  3
 
 &mt {
